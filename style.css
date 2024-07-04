@@ -1,0 +1,19 @@
+body{
+   
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vmin;
+    background-color: blanchedalmond;
+}
+h1{
+    font-size: 30i;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    color: brown;
+   
+}
+label{
+    font-size: 40i;
+}
